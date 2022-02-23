@@ -1,0 +1,16 @@
+.navBar {
+  background-color: rgb(151, 151, 243);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  height: 70px;
+}
+.logo {
+  height: 70px;
+  width: 70px;
+}
+
+.link {
+  color: black;
+}
